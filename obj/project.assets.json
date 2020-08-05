@@ -5348,7 +5348,7 @@
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
       "Microsoft.EntityFrameworkCore.Design >= 3.1.6",
-      "NpgSql.EntityFrameworkCore.PostgreSQL.Design >= *",
+      "NpgSql.EntityFrameworkCore.PostgreSQL.Design >= 1.1.1",
       "Npgsql.EntityFrameworkCore.PostgreSQL >= 3.1.4"
     ]
   },
@@ -5395,7 +5395,7 @@
           },
           "NpgSql.EntityFrameworkCore.PostgreSQL.Design": {
             "target": "Package",
-            "version": "[*, )"
+            "version": "[1.1.1, )"
           },
           "Npgsql.EntityFrameworkCore.PostgreSQL": {
             "target": "Package",
